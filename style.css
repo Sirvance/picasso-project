@@ -40,29 +40,35 @@ body {
     z-index: 1;
 }
 .circle2{
-    background-color: #fe8888;
-    width: 30px;
-    height: 30px;
-    top: 20px;
-    left: 20px;
+    background-color: yellow;
+    top: 40px;
+    left: 160px;
     z-index: 1;
 
 }
 .circle3{
     background-color: #fe8888;
-    width: 32px;
-    height: 25px;
-    top: 22px;
-    left: 20px;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    left: 360px;
     z-index: 1;
 }
-.circle4{
-    background-color: yellow;
-    width: 20px;
+.circle4 {
+    background-color: #fe8888;
+    width: 30px;
     height: 30px;
-    top: 20px;
-    right: 30px;
+    top: 120px;
+    left: 20px;
     z-index: 1;
+  
+ .circle5 {
+     background-color: yellow;
+     width:30px;
+     height: 30px;
+     top:190px;
+     left: 80px;
+     z-index: 1;
 }
 #figure-1{
     position: absolute;
